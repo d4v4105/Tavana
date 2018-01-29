@@ -6,6 +6,8 @@
 # ng new projectname
 # cd projectname
 # ng serve --open 
+# ng build
+# npm install express body-parser --save
 # ng generate component 
 # ng g c 
 # ng generate service
@@ -17,3 +19,5 @@
 # ARN - arn:aws:lambda:us-east-1:936812529478:function:backupFiles
 # Tavana
 #    mongo ds117888.mlab.com:17888/tavanadb -u <dbuser> -p <dbpassword>
+
+# npm install mongoose --save

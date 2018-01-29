@@ -1,10 +1,10 @@
-import { AppPage } from './app.po';
+import { BlogappPage } from './app.po';
 
-describe('orden App', () => {
-  let page: AppPage;
+describe('blogapp App', () => {
+  let page: BlogappPage;
 
   beforeEach(() => {
-    page = new AppPage();
+    page = new BlogappPage();
   });
 
   it('should display welcome message', () => {
